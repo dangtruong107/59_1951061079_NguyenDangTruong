@@ -1,0 +1,24 @@
+.col-md-12{
+    padding: 0;
+}
+
+header{
+    padding: 0;
+}
+
+.my-about{
+    text-align: justify;
+}
+
+.my-name{
+    display: flex;
+}
+
+.pd-16{
+    padding: 0 16px 0 0;
+}
+
+.pd-footer{
+    padding: 0 64px 48px 110px;
+}
+
